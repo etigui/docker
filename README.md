@@ -3,8 +3,6 @@ Here you can find the folder with the script to build my docker images:
 
 - [Install simple samba server](/samba/README.md)
 
-## Install docker (debian 9)
-If you don't have docker already installed on your computer, you can follow [this procedure](/INSTALL.md)
 
 ### Build infos
 All my images have successfully built with the following docker, debian and kernel version:
@@ -21,3 +19,6 @@ All my images have successfully built with the following docker, debian and kern
 
     $ uname -a
     Linux pc-508 4.9.0-8-amd64 #1 SMP Debian 4.9.130-2 (2018-10-27) x86_64 GNU/Linux
+
+## Install docker (debian 9)
+If you don't have docker already installed on your computer, you can follow [this procedure](/INSTALL.md)
