@@ -1,3 +1,3 @@
 # Docker images repo
 
-- [Simple samba server install](/samba/README.md)
+- [Install simple samba server](/samba/README.md)
