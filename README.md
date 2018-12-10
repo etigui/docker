@@ -21,3 +21,6 @@ All my images have successfully built with the following docker, debian and kern
 
 ## Install docker (debian 9)
 If you don't have docker already installed on your computer, you can follow [this procedure](/INSTALL.md)
+
+## Docker commands
+If you are not used to type docker commande, [here a bunch of exemple](/COMMAND.md)
