@@ -5,7 +5,8 @@ Here you can find the folder with the script to build my docker images:
 
 ## Install docker (debian 9)
 If you don't have docker already installed on your computer, you can follow this steps:
-- [Install docker](/INSTALL.md)
+
+[Install docker](/INSTALL.md)
 
 ### Build infos
 All my images have successfully built with the following docker, debian and kernel version:
