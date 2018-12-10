@@ -10,9 +10,11 @@ Remove build image:
 	docker rmi <image_name/image_id>
 
 Force remove build image:
+
 	docker rmi -f <image_name/image_id>
 	
 Get all images:
+
 	docker images
 	docker image ls
 	
