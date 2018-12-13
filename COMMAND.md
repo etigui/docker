@@ -83,6 +83,7 @@ Run commands into container:
 
 - [How do I run a command on an already existing Docker container?](https://stackoverflow.com/questions/26153686/how-do-i-run-a-command-on-an-already-existing-docker-container)
 - [Use volumes](https://docs.docker.com/storage/volumes/#choose-the--v-or---mount-flag)
+-[Docker full stack dev](https://www.youtube.com/watch?v=wCTTHhehJbU)
 
 
 
