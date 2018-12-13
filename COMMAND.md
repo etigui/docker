@@ -37,6 +37,9 @@ Run docker image with volume attached:
 
 	docker run -it -v <host_path>:<container_path> --name=<container_name> <image_name/image_id>
 	
+Run fresh docker image:
+	docker run -it --rm --name=<container_name> <image_name/image_id>
+	
 Get all docker containter:
 
 	docker ps
