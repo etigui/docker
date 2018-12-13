@@ -33,9 +33,14 @@ Run docker image with ports exported:
 
 	docker run -it -p <host_port>:<container_port> --name=<container_name> <image_name/image_id>
 	
-Run docker image with volume attached:
+Run docker image with volume attached from linux:
 
 	docker run -it -v <host_path>:<container_path> --name=<container_name> <image_name/image_id>
+	
+Run docker image with volume attached from Windows:
+	
+	docker run -it -v <host_path>:<container_path> --name=<container_name> <image_name/image_id>
+	docker run -it -v //c/users/admin/documents/docker_share/.:/home/admin/docker_share -name=<container_name> <image_name/image_id>
 	
 Run fresh docker image:
 
