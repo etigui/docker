@@ -26,6 +26,6 @@ If you don't have docker already installed on your computer, you can follow [thi
 If you are not used to type docker command, [here a bunch of exemple](/COMMAND.md)
 
 ## Ref
-- [Learn Docker in 12 Minutes(https://www.youtube.com/watch?v=YFl2mCHdv24)
+- [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 - [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
 - [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk)
