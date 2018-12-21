@@ -1,8 +1,8 @@
 # Samba
-Run a simple samba server with docker
+Run a simple samba server with docker: [Dockerfile](/samba/Dockerfile) 
 
 ### Build image
-Build samba image with [Dockerfile](/samba/Dockerfile) arguments (don't forget to replace `<arg>` value):
+Build samba image with `Dockerfile` arguments (don't forget to replace `<arg>` value):
 
 	docker build -t samba --build-arg DK_SB_LOCAL_PASS=<user (local) password> --build-arg DK_SB_LOCAL_USER=<user (local) password> --build-arg DK_SB_PASS=<samba user password > .
 	
